@@ -2,4 +2,8 @@
 .o
 .so
 .a
-
+*.pyc
+.lock*
+.waf*
+build/
+waf*/
