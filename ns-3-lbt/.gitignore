@@ -7,3 +7,14 @@
 .waf*
 build/
 waf*/
+*.txt
+laa-wifi-itu-umi-pathloss.gnuplot
+laa_wifi_indoor_default_operatorA
+laa_wifi_indoor_default_operatorB
+laa_wifi_outdoor_default_operatorA
+laa_wifi_outdoor_default_operatorB
+laa_wifi_simple_default_operatorA
+laa_wifi_simple_default_operatorB
+wifi_co_channel_networks_default_operatorA
+wifi_co_channel_networks_default_operatorB
+
